@@ -49,6 +49,10 @@
  - Github https://pages.github.com/
  - Repl.it http://repl.it
 
+## Guidebooks
+ - Learn to Code HTML & CSS http://learn.shayhowe.com/html-css/
+ - Learn to Code Advanced HTML & CSS http://learn.shayhowe.com/advanced-html-css/
+
 ## Help with Code
  - Stackoverflow stackoverflow.com
  - Tutorials Point tutorialspoint.com
