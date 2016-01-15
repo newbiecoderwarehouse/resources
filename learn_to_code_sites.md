@@ -52,6 +52,8 @@
 ## Guidebooks
  - Learn to Code HTML & CSS http://learn.shayhowe.com/html-css/
  - Learn to Code Advanced HTML & CSS http://learn.shayhowe.com/advanced-html-css/
+ - CSS Reference http://tympanus.net/codrops/css_reference/
+ - CSS Values http://cssvalues.com/
 
 ## Help with Code
  - Stackoverflow stackoverflow.com
