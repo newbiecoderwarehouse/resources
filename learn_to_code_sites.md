@@ -5,6 +5,7 @@
  - Dash by General Assembly  dash.generalassemb.ly
  - Node School http://nodeschool.io/#workshoppers
  - The Odin Project http://www.theodinproject.com
+ - Edabit https://edabit.com
  
 ## Online Universities With Programming Courses
  - Coursera coursera.org
